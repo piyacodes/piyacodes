@@ -1,7 +1,6 @@
-<img src="https://img.wattpad.com/1dfa1d4b4e25ccf38876def12103c2660a36dad5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f36454c7071316e5f3351445038673d3d2d3530303638333833382e313466623336643466643736663036363431393435313430363639312e676966?s=fit&w=400&h=400">
-<h1 align="center">hi, i'm piyali :)</h1>
-<h3 align="center">⌨️currently a sophomore student pursuing bachelors in technology from KIIT University⌨️<br>📌i'm a passionate learner who's always willing to learn and work across technologies and domains📌<br>💡i love to explore new technologies and use them in real life problems💡<br>🧩apart from coding i love visual arts and graphic design🧩</h3>
 
+<h3 align="center">⌨️currently a sophomore student pursuing bachelors in technology from KIIT University⌨️<br>📌i'm a passionate learner who's always willing to learn and work across technologies and domains📌<br>💡i love to explore new technologies and use them in real life problems💡<br>🧩apart from coding i love visual arts and graphic design🧩</h3>
+<img align="right" alt="coding" width="400" src="<img src="https://img.wattpad.com/1dfa1d4b4e25ccf38876def12103c2660a36dad5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f77617474706164">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyacodes&label=Profile%20views&color=0e75b6&style=flat" alt="piyacodes" /> </p>
 
 - 📌 i'm currently learning **full stack web development and bettering my skills in data structures and algorithms.**

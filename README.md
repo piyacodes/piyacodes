@@ -1,6 +1,6 @@
 <img src=
 <h1 align="center">hi, i'm piyali :)</h1>
-<h3 align="center">⌨️ currently a sophomore student pursuing bachelors in technology from KIIT University ⌨️<br>📌 i'm a passionate learner who's always willing to learn and work across technologies and domains 📌<br>💡 i love to explore new technologies and use them in real life problems 💡<br>🧩 apart from coding i love visual arts and graphic design. 🧩</h3>
+<h3 align="center">⌨️currently a sophomore student pursuing bachelors in technology from KIIT University⌨️<br>📌i'm a passionate learner who's always willing to learn and work across technologies and domains📌<br>💡i love to explore new technologies and use them in real life problems💡<br>🧩apart from coding i love visual arts and graphic design🧩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyacodes&label=Profile%20views&color=0e75b6&style=flat" alt="piyacodes" /> </p>
 

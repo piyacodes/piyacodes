@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFRdxyoblg/j5LgddovvheQXx40NZ0H0w/watch?utm_content=DAFRdxyoblg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![MasterHead](https://i.pinimg.com/originals/66/a8/65/66a865141ea3e2efa45f870048c4a70d.gif)](https://github.com/piyacodes)
 <h3 align="center">⌨️currently a sophomore student pursuing bachelors in technology from KIIT University⌨️<br>📌i'm a passionate learner who's always willing to learn and work across technologies and domains📌<br>💡i love to explore new technologies and use them in real life problems💡<br>🧩apart from coding i love visual arts and graphic design🧩</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LTNxseliZ6gAAAAC/himouto-gaming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyacodes&label=Profile%20views&color=0e75b6&style=flat" alt="piyacodes" /> </p>

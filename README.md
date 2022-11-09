@@ -5,6 +5,8 @@
 
 - 📌 i'm currently learning **full stack web development and bettering my skills in data structures and algorithms.**
 
+- 🎐 i'm also interested in **UI/UX**
+
 - 📫 how to reach me **piyacodes@gmail.com**
 
 - 💬 about me **i'm a noob at coding(for now)**

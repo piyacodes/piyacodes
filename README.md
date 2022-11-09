@@ -1,6 +1,6 @@
 
 <h3 align="center">⌨️currently a sophomore student pursuing bachelors in technology from KIIT University⌨️<br>📌i'm a passionate learner who's always willing to learn and work across technologies and domains📌<br>💡i love to explore new technologies and use them in real life problems💡<br>🧩apart from coding i love visual arts and graphic design🧩</h3>
-<img align="right" alt="coding" width="400" src="<img src="https://img.wattpad.com/1dfa1d4b4e25ccf38876def12103c2660a36dad5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f77617474706164">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/LTNxseliZ6gAAAAC/himouto-gaming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyacodes&label=Profile%20views&color=0e75b6&style=flat" alt="piyacodes" /> </p>
 
 - 📌 i'm currently learning **full stack web development and bettering my skills in data structures and algorithms.**
